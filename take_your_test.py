@@ -21,7 +21,7 @@ y10 = str(input ('answer 10: '))
 
 r = 10
 
-S = str(input('s for start: '))
+S = str(input('Any key to start: '))
 
 print('test 0-10')
 
